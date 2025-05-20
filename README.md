@@ -51,7 +51,7 @@ github\_etl\_project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/github-etl-project.git
+git clone https://github.com/hellooohk/github-etl-project
 cd github-etl-project
 ````
 
